@@ -1,0 +1,36 @@
+_repo: Les-Ordres-De-Chevalerie--les-ordres-serbes_13219
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Brunet, J. L. (J. Louis)
+    birthdate: 1870
+    gutenberg_agent_id: '35206'
+    url: http://www.gutenberg.org/2009/agents/35206
+    wikipedia: http://en.wikipedia.org/wiki/Joseph_Wells_%28University_of_Oxford%29
+  - agent_name: Brasier, L. (Léon)
+    aliases:
+    - Brasier, L. (Leon)
+    - Brasier, Léon
+    gutenberg_agent_id: '4937'
+    url: http://www.gutenberg.org/2009/agents/4937
+description: ''
+gutenberg_bookshelf: FR Histoire
+gutenberg_issued: '2004-08-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13219'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Balkan Peninsula -- History'
+- !lcsh 'Orders of knighthood and chivalry -- Serbia'
+- !lcc 'DR'
+- !lcsh 'Decorations of honor -- Serbia'
+- !lcsh 'Medals -- Serbia'
+title: 'Les Ordres De Chevalerie: les ordres serbes'
+url: http://www.gutenberg.org/ebooks/13219
