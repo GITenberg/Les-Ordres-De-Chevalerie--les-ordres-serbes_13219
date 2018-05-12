@@ -17,6 +17,8 @@ creator:
     gutenberg_agent_id: '4937'
     url: http://www.gutenberg.org/2009/agents/4937
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13219#Les-Ordres-De-Chevalerie--les-ordres-serbes
 gutenberg_bookshelf: FR Histoire
 gutenberg_issued: '2004-08-19'
 gutenberg_type: Text
